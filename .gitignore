@@ -131,3 +131,5 @@ dist
 
 #csv
 csvSource/
+
+DS_Store/
